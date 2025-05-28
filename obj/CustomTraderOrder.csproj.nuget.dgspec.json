@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj": {}
+    "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj": {}
   },
   "projects": {
-    "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj": {
+    "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj",
+        "projectUniqueName": "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj",
         "projectName": "CustomTraderOrder",
-        "projectPath": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj",
+        "projectPath": "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\obj\\",
+        "outputPath": "D:\\GitHub\\CustomTraderOrder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",

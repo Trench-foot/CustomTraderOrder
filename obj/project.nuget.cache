@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9zv9Ym5MjM+XIJNPggwsk7H9dkZLDzGjGpxP3ktEObh5wGDh1e20GMh8qimotnCKCIbtFxeWAJTeYQ/whT7wQ==",
+  "dgSpecHash": "HTbBYxhsAddrl86qhCyolqGDBq5tNzrGasC507ZMOLsHm/OX1rhd/0D8H9s2/sE5rjSlYBi6SxUcOyf6XY+kUg==",
   "success": true,
-  "projectFilePath": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj",
+  "projectFilePath": "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

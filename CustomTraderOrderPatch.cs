@@ -36,7 +36,9 @@ public class CustomTraderOrderPatch : ModulePatch
         { "Vafelz", "637ace38260ffaa1bd63047f" },
         { "Harry", "67419e9d0d4541ce671543bb" },
         { "Hephaestus", "6746722bcce65386cfcc7209" },
-        { "Cat Burglar", "67635a00fec1f22d67d76870" }
+        { "Cat Burglar", "67635a00fec1f22d67d76870" },
+        { "Painter", "668aaff35fd574b6dcc4a686" },
+        { "Badger", "bd3a8b28356d9c6509966546" }
     };
 
     [PatchPrefix]

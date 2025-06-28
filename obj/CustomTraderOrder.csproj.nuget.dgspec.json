@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj": {}
+    "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj": {
+    "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj",
+        "projectUniqueName": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj",
         "projectName": "CustomTraderOrder",
-        "projectPath": "D:\\GitHub\\CustomTraderOrder\\CustomTraderOrder.csproj",
+        "projectPath": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrder.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\CustomTraderOrder\\obj\\",
+        "outputPath": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,12 +43,13 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net471": {
           "targetAlias": "net471",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

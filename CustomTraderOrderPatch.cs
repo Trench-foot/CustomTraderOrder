@@ -103,5 +103,3 @@ public class CustomTraderOrderPatch : ModulePatch
         return traderList.ToArray();
     }
 }
-
-

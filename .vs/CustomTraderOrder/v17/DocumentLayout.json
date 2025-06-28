@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3EFA92C7-28C1-4F8D-8A8C-6B3A2673E77C}|CustomTraderOrder.csproj|d:\\sp-tarkov dev\\development\\customtraderorder\\customtraderorderpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EFA92C7-28C1-4F8D-8A8C-6B3A2673E77C}|CustomTraderOrder.csproj|solutionrelative:customtraderorderpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomTraderOrderPatch.cs",
-              "DocumentMoniker": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrderPatch.cs",
-              "RelativeDocumentMoniker": "CustomTraderOrderPatch.cs",
-              "ToolTip": "D:\\SP-Tarkov Dev\\Development\\CustomTraderOrder\\CustomTraderOrderPatch.cs",
-              "RelativeToolTip": "CustomTraderOrderPatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T17:26:16.572Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
